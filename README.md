@@ -12,3 +12,7 @@
 * #### [SRE/DevOps](https://github.com/TheDevlounge/Public-Resources/blob/master/sreanddevops.md)
 * #### [Web Dev](https://github.com/TheDevlounge/Public-Resources/blob/master/web.md)
 * #### [IT Training / Misc Study Material](https://github.com/TheDevlounge/Public-Resources/blob/master/study.md)
+
+### Graphics Resources
+* #### [SFML](https://github.com/TheDevlounge/Public-Resources/blob/master/SFML.md)
+* #### [SDL](https://github.com/TheDevlounge/Public-Resources/blob/master/SDL.md)
